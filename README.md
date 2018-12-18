@@ -11,6 +11,11 @@
       
       (波動率：https://wizardforcel.gitbooks.io/python-quant-uqer/content/194.html)
     + 混和策略
+    
+      + 波動率預測
+      + 價格趨勢預測
+      + 建立標準判斷 盤整 or 明確走勢
+    
     最後Performance metrics(如何呈現? e.g. sharpe ratio, and more)
     
 + 分配工作
