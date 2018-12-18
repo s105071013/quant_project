@@ -8,6 +8,7 @@
   + 最後可以進行比較
     + 波動大、預測上漲下跌
     + 波動小、使用選擇權策略(Butterfly, ... etc.)
+      (波動率：https://wizardforcel.gitbooks.io/python-quant-uqer/content/194.html)
     + 混和策略
     最後Performance metrics(如何呈現? e.g. sharpe ratio, and more)
     
